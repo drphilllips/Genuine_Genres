@@ -22,11 +22,9 @@ Keywords: machine learning, k-nearest neighbors, clustering, dimensionality redu
 
 ## Table of Contents
 
-- README.md
+README.md
 
-- { project_phillips
+project_phillips/Written Report.docx : Final written report and summary of the project
 
-       -- Written Report.docx : Final written report and summary of the project
-       -- { results
-              --- process_notebook.ipynb : Process explanations and code for all findings
+project_phillips/results/process_notebook.ipynb : Process explanations and code for all findings
 
