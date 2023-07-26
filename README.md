@@ -20,3 +20,11 @@ Through the development of a new pre-processing step for cluster analysis and th
 
 Keywords: machine learning, k-nearest neighbors, clustering, dimensionality reduction, Spotify audio features
 
+## Table of Contents
+
+- README.md
+{ project_phillips
+       - Written Report.docx : Final written report and summary of the project
+       { results
+              - process_notebook.ipynb : Process explanations and code for all findings
+
